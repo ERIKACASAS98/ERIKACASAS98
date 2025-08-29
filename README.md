@@ -8,7 +8,7 @@
 
 - 🏥 **Paramedic at 123 Emergency, Medellín:** Every day, I support my community by providing prehospital care and responding to emergencies.
 - 🎓 **Student of Data Analytics Engineering:** Currently studying to expand my skills in data-driven healthcare.
-- 💻 **Learning:** SQL, Java, Python, and C++.
+- 💻 **Learning:** SQL, Java, Python, and C++, VS, PowerBI
 - 🌏 **English Level:** A2 (I'm learning, but can hold a conversation! 😉)
 - 🌟 **Passion:** My dream is to help transform prehospital care in Medellín through data, technology, and standardization.
 
